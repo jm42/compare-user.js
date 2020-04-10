@@ -23,7 +23,6 @@ $ cp user.js ~/.mozila/firefox/xxxxxxxx.default/
 Because of some unfavorable differences, I also include myself the following:
 
 ```js
-user_pref("app.update.auto", false);
 user_pref("accessibility.blockautorefresh", true);
 user_pref("browser.formfill.enable", false);
 user_pref("browser.safebrowsing.enabled", false);
