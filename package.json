@@ -2,6 +2,6 @@
   "name": "compare-user.js",
   "main": "./compare-user.js",
   "dependencies": {
-    "bl": "~1.1"
+    "bl": "~4.0"
   }
 }
