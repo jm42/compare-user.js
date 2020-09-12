@@ -27,6 +27,7 @@ user_pref("accessibility.blockautorefresh", true);
 user_pref("browser.startup.page", 0);
 user_pref("network.cookie.lifetimePolicy", 2);
 user_pref("network.http.sendRefererHeader", 1);
+user_pref("privacy.trackingprotection.enabled", true);
 ```
 
 Check [automatic conections](https://wiki.debian.org/Firefox#Automatic_connections) configuration.
