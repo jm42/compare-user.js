@@ -3,8 +3,8 @@
 var USERJS = {
   arkenfox: "https://raw.githubusercontent.com/arkenfox/user.js/master/user.js",
   yokoffing: "https://raw.githubusercontent.com/yokoffing/Better-Fox/master/user.js",
-  //pyllyukko: "https://raw.githubusercontent.com/pyllyukko/user.js/master/user.js",
-  pyllyukko_relaxed: "https://raw.githubusercontent.com/pyllyukko/user.js/relaxed/user.js",
+  pyllyukko: "https://raw.githubusercontent.com/pyllyukko/user.js/master/user.js",
+  //pyllyukko_relaxed: "https://raw.githubusercontent.com/pyllyukko/user.js/relaxed/user.js",
   //CrisBRM: "https://raw.githubusercontent.com/CrisBRM/user.js/master/user.js",
   //Narga: "https://raw.githubusercontent.com/Narga/user.js/master/user.js",
   ghacks: "https://raw.githubusercontent.com/ghacksuserjs/ghacks-user.js/master/user.js",
