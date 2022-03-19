@@ -2,6 +2,7 @@
 
 Script that generates an `user.js` based on several privacy-advocate versions:
 
+- [arkenfox](https://github.com/arkenfox/user.js),
 - [yokoffing](https://github.com/yokoffing/Better-Fox),
 - [pyllyukko](https://github.com/pyllyukko/user.js) and
 - [ghacks](https://github.com/ghacksuserjs/ghacks-user.js).
