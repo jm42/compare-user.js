@@ -124,8 +124,8 @@ function compare(t) {
       if (typeof t[i].value[n] != "undefined")
         v[t[i].value[n]] = typeof v[t[i].value[n]] == "undefined" ? 1
                          : v[t[i].value[n]] + 1
-    if (Object.keys(v).length == 1) { // there's only one value
-      k = Object.keys(v).pop()
+    if (Object.keys(v).length > 0) {
+      k = Object.keys(v).reduce((a, b) => v[a] > v[b] ? a : b) // first higher
       // Unanimous or more than 50% of votes for a value to enter custom
       if (v[k] == Object.keys(USERJS).length || v[k] * 100 / Object.keys(USERJS).length >= 50)
         switch (true) {
