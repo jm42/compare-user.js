@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var USERJS = {
-  arkenfox: "https://raw.github.com/arkenfox/user.js/master/user.js",
+  arkenfox: "https://raw.githubusercontent.com/arkenfox/user.js/master/user.js",
   yokoffing: "https://raw.githubusercontent.com/yokoffing/Better-Fox/master/user.js",
   //pyllyukko: "https://raw.githubusercontent.com/pyllyukko/user.js/master/user.js",
   pyllyukko_relaxed: "https://raw.githubusercontent.com/pyllyukko/user.js/relaxed/user.js",
