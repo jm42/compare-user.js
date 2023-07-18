@@ -13,9 +13,8 @@ To generate a `user.js` use:
 $ node compare-user.js user.js
 ```
 
-The algorithm adds a preference if there are >=50% with the same value and
-there no other value. The output file is already a valid file to include in
-your profile directory:
+The algorithm adds a preference if there are >=50% with the same value. The
+output file is already a valid file to include in your profile directory:
 
 ```sh
 $ cp user.js ~/.mozila/firefox/xxxxxxxx.default/
